@@ -1,4 +1,7 @@
-### Hi there 👋
+### Andrew Shafer
+
+I am transitionaing from a career in philosophhy to a carer in computer programing. 
+
 
 <!--
 **Aphilosopher30/Aphilosopher30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
