@@ -1,7 +1,6 @@
 ### Andrew Shafer
 
-  I am transitioning from a career in philosophy, to a career in computer programing. I have been told that programing is essentially the science and study of abstraction. It is about building systems designed to hide the messy complexity of binary machine code, and provide people with abstractions that we understand as meaningful and that can be comprehended by human beings. Philosophy engages in this same processes of abstraction making a confusing and chaotic the world intelligible and orderly to us. Only, instead of applying the abstraction to the complexity of computers, you apply it to the whole of human life. Thus making the transition from philosopher to software developer feels perfectly natural. So far, I have greatly enjoyed putting my skills in logic, problem solving, and critical thinking to use in new and exciting ways. 
-
+  I am transitioning from a career in philosophy, to a career in computer programing. I belive that computer programing is essentially the science and study of abstraction. It is about building systems designed to hide the messy complexity of binary machine code, and provide people with abstractions that we understand as meaningful and comprehensible. Philosophy engages in this same processes of abstraction, making a confusing and chaotic world intelligible and orderly to us. Only, instead of applying the abstraction to the complexity of computers, philosophy applies it to the whole of human life. Thus making the transition from philosopher to software developer feels quite natural. So far, I have greatly enjoyed putting my skills in logic, problem solving, and critical thinking to use in new and exciting ways. 
 
  
 I am currently applying for employment in the field of software development. 
