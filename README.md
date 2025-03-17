@@ -2,7 +2,7 @@
 
   I am transitioning from an academic career in philosophy to a career in software design. I believe that computer programming is essentially the science and study of abstraction. It is about building systems designed to hide the messy complexity of machine code, and providing people with abstractions that are meaningful and comprehensible. Similarly, Philosophy makes a confusing and chaotic world intelligible and orderly to us. In this light, my transition from philosopher to software developer is a natural one. I have greatly enjoyed putting my skills in logic, problem solving, and critical thinking to work in new and exciting ways.
  
-I am currently applying for employment in the field of software development. 
+I am currently applying for employment in the field of software development. I currently have 2 years experiance in web development back end programing. 
 
 Contact information: ashafer1@fordham.edu
 
